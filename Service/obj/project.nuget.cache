@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qlpiBBEGCWPgDupiK0YFLIErO3oVAgEk2LmC7CIlv0EC1GQ962K4fv2KBHDJ2M11NOcNQZRns7VhrUVvsan2wg==",
+  "dgSpecHash": "G+a7jIIl+ra0sGVAQwPVrQRl1zLF/1jUqvyqbKbeTyVHpJzLdN53Hd5TBFa8FOwR75YGjeSjLHPLzka+AtXXRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service\\Service.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

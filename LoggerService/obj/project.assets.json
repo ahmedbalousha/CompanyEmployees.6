@@ -143,11 +143,24 @@
       "Contracts/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Contracts.dll": {}
         },
         "runtime": {
           "bin/placeholder/Contracts.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
         }
       }
     }
@@ -355,6 +368,11 @@
       "type": "project",
       "path": "../Contracts/Contracts.csproj",
       "msbuildProject": "../Contracts/Contracts.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -369,11 +387,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\LoggerService\\LoggerService.csproj",
       "projectName": "LoggerService",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+      "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\LoggerService\\LoggerService.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees\\LoggerService\\obj\\",
+      "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\LoggerService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -390,8 +408,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User\\Source\\Repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees\\Contracts\\Contracts.csproj"
+            "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj"
             }
           }
         }
