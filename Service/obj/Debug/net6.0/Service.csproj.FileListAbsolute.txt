@@ -21,9 +21,11 @@ C:\Users\User\Source\Repos\CompanyEmployees.6\Service\bin\Debug\net6.0\Service.p
 C:\Users\User\Source\Repos\CompanyEmployees.6\Service\bin\Debug\net6.0\Contracts.dll
 C:\Users\User\Source\Repos\CompanyEmployees.6\Service\bin\Debug\net6.0\Entities.dll
 C:\Users\User\Source\Repos\CompanyEmployees.6\Service\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\User\Source\Repos\CompanyEmployees.6\Service\bin\Debug\net6.0\Shared.dll
 C:\Users\User\Source\Repos\CompanyEmployees.6\Service\bin\Debug\net6.0\Contracts.pdb
 C:\Users\User\Source\Repos\CompanyEmployees.6\Service\bin\Debug\net6.0\Service.Contracts.pdb
 C:\Users\User\Source\Repos\CompanyEmployees.6\Service\bin\Debug\net6.0\Entities.pdb
+C:\Users\User\Source\Repos\CompanyEmployees.6\Service\bin\Debug\net6.0\Shared.pdb
 C:\Users\User\Source\Repos\CompanyEmployees.6\Service\obj\Debug\net6.0\Service.csproj.AssemblyReference.cache
 C:\Users\User\Source\Repos\CompanyEmployees.6\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\Source\Repos\CompanyEmployees.6\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache

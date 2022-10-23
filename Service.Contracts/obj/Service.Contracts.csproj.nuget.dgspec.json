@@ -4,14 +4,14 @@
     "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj",
-        "projectName": "Entities",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj",
+        "projectName": "Service.Contracts",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Shared\\Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -59,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj",
-        "projectName": "Service.Contracts",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Shared\\Shared.csproj",
+        "projectName": "Shared",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,11 +86,7 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
