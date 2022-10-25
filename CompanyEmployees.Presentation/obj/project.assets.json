@@ -4097,9 +4097,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
       "projectName": "CompanyEmployees.Presentation",
-      "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\CompanyEmployees.Presentation\\obj\\",
       "projectStyle": "PackageReference",
@@ -4118,8 +4118,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj": {
-              "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj"
+            "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj": {
+              "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj"
             }
           }
         }

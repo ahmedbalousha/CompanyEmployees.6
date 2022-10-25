@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service\\Service.csproj": {}
+    "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj"
+              "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Entities\\Entities.csproj"
               }
             }
           }
@@ -63,12 +63,12 @@
         }
       }
     },
-    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj": {
+    "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\obj\\",
         "projectStyle": "PackageReference",
@@ -118,14 +118,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj": {
+    "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj",
         "projectName": "Service.Contracts",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,8 +142,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Shared\\Shared.csproj"
+              "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Shared\\Shared.csproj"
               }
             }
           }
@@ -177,14 +177,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service\\Service.csproj": {
+    "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -201,11 +201,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj"
+              "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj"
               },
-              "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj": {
-                "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj"
+              "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Service.Contracts\\Service.Contracts.csproj"
               }
             }
           }
@@ -245,12 +245,12 @@
         }
       }
     },
-    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Shared\\Shared.csproj": {
+    "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Shared\\obj\\",
         "projectStyle": "PackageReference",

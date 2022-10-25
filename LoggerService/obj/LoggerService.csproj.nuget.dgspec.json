@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\LoggerService\\LoggerService.csproj": {}
+    "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\LoggerService\\LoggerService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj"
+              "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Entities\\Entities.csproj"
               }
             }
           }
@@ -63,12 +63,12 @@
         }
       }
     },
-    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj": {
+    "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\obj\\",
         "projectStyle": "PackageReference",
@@ -118,14 +118,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\LoggerService\\LoggerService.csproj": {
+    "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\LoggerService\\LoggerService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\LoggerService\\LoggerService.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\LoggerService\\LoggerService.csproj",
         "projectName": "LoggerService",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\LoggerService\\LoggerService.csproj",
+        "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\LoggerService\\LoggerService.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\LoggerService\\obj\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\LoggerService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,8 +142,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj"
+              "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Contracts\\Contracts.csproj"
               }
             }
           }

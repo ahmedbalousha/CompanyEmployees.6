@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LZl3mLP3hSP/aUxqPmDS7PW3wQr5KfKsl61n39pk3X6IjhNXsTOegRwfHsMUbAgKUiUtnj3RMfO68qR9kEAEAQ==",
+  "dgSpecHash": "X3edyL57GR/EwnwqfwSB4v6rG7KOzI6v100Oqvu1TW89IBokgLW8NoqNh7XXWsBNpElF436suEQW9hRGXunqYA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\CompanyEmployees.6\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\CompanyEmployees.6\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
